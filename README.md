@@ -1,6 +1,3 @@
-# Smart-Contract-Audit-Reports
-
-
 # Common Recommendation and Error Patterns
 
 
